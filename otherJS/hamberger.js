@@ -8,6 +8,13 @@
 
 const hamburger=document.querySelector('.hamBurger');
 
+document.querySelector('.logo').addEventListener('click',()=>{
+    window.location.href="../index.html";
+})
+
+document.querySelector('.footer-logo').addEventListener('click',()=>{
+    window.location.href="../index.html";
+})
 
 const line1=document.querySelector('.line1');
 const line2=document.querySelector('.line2');

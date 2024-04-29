@@ -83,6 +83,7 @@ p::selection{
     letter-spacing: .02em;
     cursor: pointer;
     user-select: none;
+    text-decoration: none ;
 }
 
 .nav-and-btn-cont{
@@ -923,6 +924,7 @@ p::selection{
 .footer-logo{
     color:var(--light-color);
     margin:.5em 0;
+    text-decoration: none;
 }
 
 .icons{

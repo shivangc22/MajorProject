@@ -10,7 +10,13 @@ const startConvoBtn=document.querySelector('.start-convo-btn');
 const speakBtn=document.querySelector('.speak-btn');
 const stoConvoBtn=document.querySelector('.stop-convo-btn');
 
+document.querySelector('.logo').addEventListener('click',()=>{
+    window.location.href="../index.html";
+})
 
+document.querySelector('.footer-logo').addEventListener('click',()=>{
+    window.location.href="../index.html";
+})
 
 const startConvoBtnCont=document.querySelector('.start-convo-btn-cont');
 const otherBtnCont=document.querySelector('.other-btn-cont');

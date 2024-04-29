@@ -6,6 +6,14 @@
 const images=document.querySelectorAll('.container-img ');
 
 
+document.querySelector('.logo').addEventListener('click',()=>{
+    window.location.href="../index.html";
+})
+
+document.querySelector('.footer-logo').addEventListener('click',()=>{
+    window.location.href="../index.html";
+})
+
 let options ={
     root: null,
     rootMargin:'0px',
