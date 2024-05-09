@@ -22,7 +22,7 @@
     flex-direction: column;
     justify-content: flex-end;
     padding:1em;
-    background-image: url("../Images/food-page-images/land-food03.jpg");
+    background-image: url("../Images/food-page-images/head.png");
     background-size:cover;
     background-color:var(--lightvarient-darkColor);
     background-blend-mode: multiply;
@@ -114,52 +114,52 @@
 
 
 .img-1{
-    background-image: url("../Images/food-page-images/salmon.jpg");
+    background-image: url("../Images/food-page-images/meditation.jpg");
 }
 
 
 .img-2{
-    background-image: url("../Images/food-page-images/grains.jpg");
+    background-image: url("../Images/food-page-images/contacting.png");
 }
 
 
 .img-3{
-    background-image: url("../Images/food-page-images/avacado.jpg");
+    background-image: url("../Images/food-page-images/mindfull.jpeg");
 }
 
 
 .img-4{
-    background-image: url("../Images/food-page-images/Spinach.jpg");
+    background-image: url("../Images/food-page-images/healthy.jpg");
 }
 
 
 .img-5{
-    background-image: url("../Images/food-page-images/yogurt.jpg");
+    background-image: url("../Images/food-page-images/journaling.jpg");
 }
 
 
 .img-6{
-    background-image: url("../Images/food-page-images/nuts.jpg");
+    background-image: url("../Images/food-page-images/social.jpg");
 }
 
 
 .img-7{
-    background-image: url("../Images/food-page-images/olive-oil.jpg");
+    background-image: url("../Images/food-page-images/setting.png");
 }
 
 
 .img-8{
-    background-image: url("../Images/food-page-images/tomato.jpg");
+    background-image: url("../Images/food-page-images/breathing.png");
 }
 
 
 .img-9{
-    background-image: url("../Images/food-page-images/chicken.jpg");
+    background-image: url("../Images/food-page-images/time.jpg");
 }
 
 
 .img-10{
-    background-image: url("../Images/food-page-images/chocolate.jpg");
+    background-image: url("../Images/food-page-images/seeking.jpg");
 }
 
 .food-desp{
