@@ -147,7 +147,9 @@ logo.addEventListener('click',()=>{
     window.location.reload();
 })
 
-
+document.querySelector('.footer-logo').addEventListener('click',()=>{
+    window.scrollTo(0,0, 'smooth');
+})
 
 
 // ///////// ATTRIBUTION CONT ON FOOTER
